@@ -22,7 +22,7 @@ public class MyClass {
             }
             
         }
-        // 
+        
         for(int i = 0; i < n; i++) {
         // decrement element from right map
             if(right.get(arr[i]) != null) {
